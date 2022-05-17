@@ -1,0 +1,52 @@
+{
+  "name": "Crank Ems NFT #49",
+  "description": "CRANK EMS NFT GAME CHARACTERS",
+  "image": "https://ipfs.io/ipfs/bafkreibzcj5mv4c7dikskwmlutq4fqkwmbk2wqdu5rzyj45imq3gt7vgwi",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "apegreen"
+    },
+    {
+      "trait_type": "base",
+      "value": "zombietyler"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "tattoo(1)",
+      "value": "blank"
+    },
+    {
+      "trait_type": "piercing(1)",
+      "value": "blank"
+    },
+    {
+      "trait_type": "headwear",
+      "value": "xhair"
+    },
+    {
+      "trait_type": "eyewear",
+      "value": "blank"
+    },
+    {
+      "trait_type": "earwear",
+      "value": "blank"
+    },
+    {
+      "trait_type": "shirt",
+      "value": "shirtless"
+    },
+    {
+      "trait_type": "blush",
+      "value": "blank"
+    }
+  ],
+  "dna": "31b023d57cd0a4b95304fa3a09118ae54bb225fc",
+  "edition": 49,
+  "external_url": "https://crankems.com",
+  "date": 1652768418533,
+  "compiler": "HashLips Art Engine - codeSTACKr Modified"
+}
