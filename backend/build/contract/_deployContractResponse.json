@@ -1,0 +1,9 @@
+{
+  "response": "OK",
+  "chain": "polygon",
+  "transaction_hash": "0xb2054470afd05c38dc5188cbe0052db5fdb801a127571e793557c8ec904a52e0",
+  "transaction_external_url": "https://polygonscan.com/tx/0xb2054470afd05c38dc5188cbe0052db5fdb801a127571e793557c8ec904a52e0",
+  "owner_address": "0x76B32779959Aa40F9B55Fb803778fE65144966FF",
+  "name": "Crank Ems NFT",
+  "symbol": "CE"
+}
